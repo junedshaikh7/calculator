@@ -1,0 +1,22 @@
+{
+  "name": "claculator",
+  "version": "1.0.0",
+  "description": "first app",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junedshaikh7/calculator.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "june",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junedshaikh7/calculator/issues"
+  },
+  "homepage": "https://github.com/junedshaikh7/calculator#readme"
+}
